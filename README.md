@@ -29,12 +29,9 @@ Al ejecutar el programa, el usuario ingresa el nombre de la persona cuyo número
 
 Ingrese el nombre de la persona que desea buscar su número de teléfono: juan
 El numero de telefono de Juan es: 123-456-7890
-```
 
 Si el nombre no está registrado en la agenda, el programa muestra un mensaje indicando que no se encuentra registrado:
 
-```text
 Ingrese el nombre de la persona que desea buscar su número de teléfono: Melissa
 Melissa no esta registrado en la agenda.
-```
 
