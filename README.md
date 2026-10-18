@@ -24,7 +24,7 @@ Total de la compra: S/ 120.00
 Total con descuento: S/ 108.00
 
 
-# Agenda-telefonica
+# Agenda telefonica
 
 ### Descripción: 
 Este proyecto está desarrollado en Python y permite gestionar una agenda de contactos telefónicos. 
