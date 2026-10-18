@@ -1,3 +1,11 @@
+# Mis proyectos en Python
+
+Aqui encontraras pequenos programas hechos en Python mientras aprendo a programar.
+
+- Tienda de fruta: calcula el total de una compra y aplica descuentos.
+- Agenda telefonica: guarda contactos y busca su numero por nombre.
+
+
 # Tienda-de-fruta
 Proyecto de tienda en Python para calcular totales y mostrar un descuento
 Este programa está hecho en Python. Calcula el total de una compra de frutas y aplica un descuento del 10% cuando la compra supera los 100 soles
