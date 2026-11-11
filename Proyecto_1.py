@@ -20,4 +20,4 @@ for producto, cantidad in compra.items():
 if total > 100:
     total *= 0.9
 
-print(f"El total de la compra es: s/{total}")
+print(f"El total de la compra es: S/{total:.2f}")
