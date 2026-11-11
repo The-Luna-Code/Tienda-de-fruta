@@ -7,21 +7,22 @@ Aqui encontraras pequenos programas hechos en Python mientras aprendo a programa
 
 
 # Tienda-de-fruta
-Proyecto de tienda en Python para calcular totales y mostrar un descuento
-Este programa está hecho en Python. Calcula el total de una compra de frutas y aplica un descuento del 10% cuando la compra supera los 100 soles
+Proyecto de tienda en Python para calcular totales y mostrar un descuento. Este programa está hecho en Python. Calcula el total de una compra de frutas, que se paga por kilo, y aplica un descuento del 10% cuando la compra supera los 100 soles. Al final muestra por separado el total de la compra, el descuento y el total a pagar.
 
 ## Ejemplo de uso
 
-Al ejecutar el programa, el usuario ingresa la cantidad de cada fruta que desea comprar:
+Al ejecutar el programa, el usuario ingresa los kilos de cada fruta que desea comprar:
 
-Ingrese la cantidad de manzanas: 3.5
-Ingrese la cantidad de bananas: 2
-Ingrese la cantidad de naranjas: 1
+¿Cuántos kilos de manzanas desea comprar? 10
+¿Cuántos kilos de bananas desea comprar? 12
+¿Cuántos kilos de naranjas desea comprar? 39.6
+¿Cuántos kilos de uvas desea comprar? 45.79
 
-El programa calcula el total de la compra y, si supera los 100 soles, aplica automáticamente un descuento del 10%.
+El programa calcula el total de la compra y, si supera los 100 soles, aplica automáticamente un descuento del 10%:
 
-Total de la compra: S/ 120.00
-Total con descuento: S/ 108.00
+Total de la compra: S/446.35
+Descuento: S/44.64
+Total a pagar: S/401.72
 
 
 # Agenda telefonica
