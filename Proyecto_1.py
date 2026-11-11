@@ -17,7 +17,12 @@ for producto, cantidad in compra.items():
     total += productos[producto] * cantidad
 
 #aplicamos el descuento si la compra supera los cien soles
+descuento = 0
 if total > 100:
-    total *= 0.9
+ descuento = total * 0.1
 
-print(f"El total de la compra es: S/{total:.2f}")
+total_final = total - descuento
+
+print(f"Total de la compra: S/{total:.2f}")
+print(f"Descuento: S/{descuento:.2f}")
+print(f"Total a pagar: S/{total_final:.2f}")
