@@ -13,16 +13,22 @@ Proyecto de tienda en Python para calcular totales y mostrar un descuento. Este 
 
 Al ejecutar el programa, el usuario ingresa los kilos de cada fruta que desea comprar:
 
-¿Cuántos kilos de manzanas desea comprar? 10
-¿Cuántos kilos de bananas desea comprar? 12
-¿Cuántos kilos de naranjas desea comprar? 39.6
-¿Cuántos kilos de uvas desea comprar? 45.79
+¿Cuántos kilos de manzanas desea comprar? 2
+¿Cuántos kilos de bananas desea comprar? 4
+¿Cuántos kilos de naranjas desea comprar? 5
+¿Cuántos kilos de uvas desea comprar? 7
 
-El programa calcula el total de la compra y, si supera los 100 soles, aplica automáticamente un descuento del 10%:
+Si la compra supera los 100 soles, el programa aplica automáticamente un descuento del 10% y muestra el total a pagar:
 
-Total de la compra: S/446.35
-Descuento: S/44.64
-Total a pagar: S/401.72
+Total de la compra: S/222.00
+Descuento del 10%: S/22.20
+Total a pagar: S/199.80
+
+Si la compra no llega a 100 soles, el programa avisa que no aplica descuento y cuánto falta para obtenerlo:
+
+Total de la compra: S/70.00
+Tu compra no llegó a S/100, por eso no aplica descuento.
+Te faltan S/30.00 para obtener el 10% de descuento.
 
 
 # Agenda telefonica
