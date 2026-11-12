@@ -17,7 +17,6 @@ for producto, cantidad in compra.items():
     total += productos[producto] * cantidad
     
 #Aplicamos el descuento si la compra supera los cien soles.
-#No es obligatorio,pero deja el código más claro y ordenado.
 print(f"Total de la compra: S/{total:.2f}")
 
 if total > 100:
